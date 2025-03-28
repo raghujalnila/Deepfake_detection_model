@@ -1,0 +1,9 @@
+flask
+torch
+torchvision
+mtcnn
+numpy
+opencv-python
+Pillow
+tqdm
+
